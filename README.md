@@ -9,6 +9,7 @@ The calculator informs the user their electric bill.
 -Input: Accepts user's name and current and previous meter reading
 -Process: Gets the difference of the current and previous reading, and multiplies it with 12.90
 -Output: Electric Bill
+-Does not include input validation
 
 ## Version 2 - Updated code with input validation
 -Input: Accepts user's name and current and previous meter reading
@@ -16,3 +17,4 @@ The calculator informs the user their electric bill.
 -Process: Gets the difference of the current and previous reading, and multiplies it with 12.90
           Makes the user input the required info IF validation is violated
 -Output: ELectric Bill
+-Does include input validation
